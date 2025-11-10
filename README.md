@@ -1,4 +1,4 @@
-# EOG Discrepancy Detection System
+# PotionWatch - Discrepancy Detection System
 
 ## 🏗️ System Architecture
 
@@ -158,4 +158,3 @@ Response format:
 4. **Real-time Updates**
    - Pre-computes stable drain data
    - Fast re-matching when tickets change
-   - Optimized for judging environment
