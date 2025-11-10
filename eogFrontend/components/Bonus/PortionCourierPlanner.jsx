@@ -14,7 +14,7 @@ const createCauldronIcon = (color) =>
         <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
           <ellipse cx="20" cy="32" rx="12" ry="4" fill="#333" opacity="0.3"/>
           <path d="M 12 18 Q 10 25, 12 30 L 28 30 Q 30 25, 28 18 Z" fill="${color}" stroke="#222" stroke-width="1.5"/>
-          <ellipse cx="20" cy="18" rx="8" ry="2.5" fill="${color}" stroke="#222" stroke-width="1.5"/>
+          <ellipse cx="20" cy="18" rx="8" ry="2.5" fill="${color}" stroke="#191919ff" stroke-width="1.5"/>
           <path d="M 11 20 Q 8 20, 8 23 Q 8 25, 11 25" fill="none" stroke="#222" stroke-width="2"/>
           <path d="M 29 20 Q 32 20, 32 23 Q 32 25, 29 25" fill="none" stroke="#222" stroke-width="2"/>
           ircle cx="18" cy="22" r="1.5" fill="#fff" opacity="="0.6"/>
