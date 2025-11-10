@@ -12,11 +12,6 @@ CORS(app)
 TICKETS_API_URL = "https://hackutd2025.eog.systems/api/Tickets"
 
 
-# ------------------------------
-# Helper functions
-# ------------------------------
-
-
 def fetch_tickets():
     try:
         response = requests.get(TICKETS_API_URL, timeout=30)
