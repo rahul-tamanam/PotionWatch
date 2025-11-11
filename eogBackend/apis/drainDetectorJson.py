@@ -16,7 +16,7 @@ available_dates = {
     "2025-11-06": {"start": 1762387200, "end": 1762473540},
     "2025-11-07": {"start": 1762473600, "end": 1762559940},
     "2025-11-08": {"start": 1762560000, "end": 1762638000},
-
+    # Until 22:00 (79200 seconds = 22 hours)
 }
 
 
@@ -246,6 +246,15 @@ if __name__ == "__main__":
     STD_MULTIPLIER = 3.0  # Adjust sensitivity (lower = more sensitive)
     MIN_DURATION = 5  # Minimum minutes for a drain event
 
+    # print("=" * 60)
+    # print("DRAIN DETECTION ANALYSIS - Statistical Adaptive Method")
+    # print("=" * 60)
+    # print(f"\nConfiguration:")
+    # print(f"  - Dates: {', '.join(DATES_TO_ANALYZE)}")
+    # print(f"  - Std Multiplier: {STD_MULTIPLIER}")
+    # print(f"  - Min Duration: {MIN_DURATION} minutes")
+    # print("\n" + "=" * 60 + "\n")
+
     # Run analysis
     json_output = analyze_drains(
         dates_to_analyze=DATES_TO_ANALYZE,
@@ -260,7 +269,7 @@ if __name__ == "__main__":
     # print(json_output)
 
     # Save to file
-    save_to_file(json_output, "drainanalysis.json")
+    save_to_file(json_output, "drain_analysis.json")
 
     # print("\n" + "=" * 60)
     # print("ANALYSIS COMPLETE")

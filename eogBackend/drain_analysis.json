@@ -1,0 +1,1660 @@
+{
+  "cauldron_data": [
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-10-30",
+      "drain_volume": 35.6,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1061,
+          "end_minute": 1149,
+          "duration_minutes": 89,
+          "volume": 35.6
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-10-30",
+      "drain_volume": 79.2,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1264,
+          "end_minute": 1439,
+          "duration_minutes": 176,
+          "volume": 79.2
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-10-30",
+      "drain_volume": 162.9,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 947,
+          "end_minute": 1127,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 1157,
+          "end_minute": 1337,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-10-30",
+      "drain_volume": 121.9,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 680,
+          "end_minute": 860,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 1356,
+          "end_minute": 1439,
+          "duration_minutes": 84,
+          "volume": 38.64
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-10-30",
+      "drain_volume": 244.47,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 344,
+          "end_minute": 525,
+          "duration_minutes": 182,
+          "volume": 81.57
+        },
+        {
+          "start_minute": 616,
+          "end_minute": 796,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 1021,
+          "end_minute": 1201,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_012",
+      "date_time": "2025-10-30",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 15,
+          "end_minute": 195,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_002",
+      "date_time": "2025-10-31",
+      "drain_volume": 12.42,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1413,
+          "end_minute": 1439,
+          "duration_minutes": 27,
+          "volume": 12.42
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-10-31",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1093,
+          "end_minute": 1273,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_004",
+      "date_time": "2025-10-31",
+      "drain_volume": 166.52,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 781,
+          "end_minute": 961,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 994,
+          "end_minute": 1174,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-10-31",
+      "drain_volume": 224.94,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 462,
+          "end_minute": 642,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 856,
+          "end_minute": 1036,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 1313,
+          "end_minute": 1439,
+          "duration_minutes": 127,
+          "volume": 58.42
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_006",
+      "date_time": "2025-10-31",
+      "drain_volume": 85.07,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 147,
+          "end_minute": 327,
+          "duration_minutes": 181,
+          "volume": 85.07
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-10-31",
+      "drain_volume": 128.18,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 391,
+          "end_minute": 564,
+          "duration_minutes": 174,
+          "volume": 59.16
+        },
+        {
+          "start_minute": 594,
+          "end_minute": 727,
+          "duration_minutes": 134,
+          "volume": 45.56
+        },
+        {
+          "start_minute": 1165,
+          "end_minute": 1233,
+          "duration_minutes": 69,
+          "volume": 23.46
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-10-31",
+      "drain_volume": 44.16,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 96,
+          "duration_minutes": 96,
+          "volume": 44.16
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-10-31",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 54,
+          "end_minute": 234,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_001",
+      "date_time": "2025-11-01",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 283,
+          "end_minute": 463,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_002",
+      "date_time": "2025-11-01",
+      "drain_volume": 70.38,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 153,
+          "duration_minutes": 153,
+          "volume": 70.38
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-11-01",
+      "drain_volume": 120.6,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 689,
+          "end_minute": 869,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 1353,
+          "end_minute": 1439,
+          "duration_minutes": 87,
+          "volume": 39.15
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_004",
+      "date_time": "2025-11-01",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 192,
+          "end_minute": 372,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-11-01",
+      "drain_volume": 24.38,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 53,
+          "duration_minutes": 53,
+          "volume": 24.38
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-11-01",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1120,
+          "end_minute": 1300,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-11-01",
+      "drain_volume": 95.54,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 471,
+          "end_minute": 567,
+          "duration_minutes": 97,
+          "volume": 32.98
+        },
+        {
+          "start_minute": 597,
+          "end_minute": 721,
+          "duration_minutes": 125,
+          "volume": 42.5
+        },
+        {
+          "start_minute": 1173,
+          "end_minute": 1231,
+          "duration_minutes": 59,
+          "volume": 20.06
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_009",
+      "date_time": "2025-11-01",
+      "drain_volume": 136.33,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 633,
+          "end_minute": 675,
+          "duration_minutes": 43,
+          "volume": 19.78
+        },
+        {
+          "start_minute": 868,
+          "end_minute": 1026,
+          "duration_minutes": 159,
+          "volume": 71.55
+        },
+        {
+          "start_minute": 1340,
+          "end_minute": 1439,
+          "duration_minutes": 100,
+          "volume": 45.0
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-11-01",
+      "drain_volume": 2.0,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1435,
+          "end_minute": 1439,
+          "duration_minutes": 5,
+          "volume": 2.0
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_012",
+      "date_time": "2025-11-01",
+      "drain_volume": 137.82,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 815,
+          "end_minute": 990,
+          "duration_minutes": 176,
+          "volume": 54.56
+        },
+        {
+          "start_minute": 1020,
+          "end_minute": 1200,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_002",
+      "date_time": "2025-11-02",
+      "drain_volume": 57.5,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1315,
+          "end_minute": 1439,
+          "duration_minutes": 125,
+          "volume": 57.5
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-11-02",
+      "drain_volume": 41.85,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 93,
+          "duration_minutes": 93,
+          "volume": 41.85
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-11-02",
+      "drain_volume": 134.32,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 988,
+          "end_minute": 1168,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 1329,
+          "end_minute": 1439,
+          "duration_minutes": 111,
+          "volume": 51.06
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_006",
+      "date_time": "2025-11-02",
+      "drain_volume": 85.07,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 673,
+          "end_minute": 853,
+          "duration_minutes": 181,
+          "volume": 85.07
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-11-02",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 690,
+          "end_minute": 870,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-11-02",
+      "drain_volume": 111.52,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 460,
+          "end_minute": 553,
+          "duration_minutes": 94,
+          "volume": 31.96
+        },
+        {
+          "start_minute": 938,
+          "end_minute": 1053,
+          "duration_minutes": 116,
+          "volume": 39.44
+        },
+        {
+          "start_minute": 1083,
+          "end_minute": 1200,
+          "duration_minutes": 118,
+          "volume": 40.12
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_009",
+      "date_time": "2025-11-02",
+      "drain_volume": 26.1,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 58,
+          "duration_minutes": 58,
+          "volume": 26.1
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-11-02",
+      "drain_volume": 70.0,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 175,
+          "duration_minutes": 175,
+          "volume": 70.0
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-11-02",
+      "drain_volume": 244.35,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 330,
+          "end_minute": 510,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 601,
+          "end_minute": 781,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 1210,
+          "end_minute": 1390,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_012",
+      "date_time": "2025-11-02",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 198,
+          "end_minute": 378,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_001",
+      "date_time": "2025-11-03",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 474,
+          "end_minute": 654,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_002",
+      "date_time": "2025-11-03",
+      "drain_volume": 25.3,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 55,
+          "duration_minutes": 55,
+          "volume": 25.3
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-11-03",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1162,
+          "end_minute": 1342,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_004",
+      "date_time": "2025-11-03",
+      "drain_volume": 72.4,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 172,
+          "end_minute": 352,
+          "duration_minutes": 181,
+          "volume": 72.4
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-11-03",
+      "drain_volume": 74.94,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 69,
+          "duration_minutes": 69,
+          "volume": 31.74
+        },
+        {
+          "start_minute": 1075,
+          "end_minute": 1182,
+          "duration_minutes": 108,
+          "volume": 43.2
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_006",
+      "date_time": "2025-11-03",
+      "drain_volume": 85.07,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 113,
+          "end_minute": 293,
+          "duration_minutes": 181,
+          "volume": 85.07
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-11-03",
+      "drain_volume": 162.9,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 436,
+          "end_minute": 616,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 1206,
+          "end_minute": 1386,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-11-03",
+      "drain_volume": 18.02,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 198,
+          "end_minute": 250,
+          "duration_minutes": 53,
+          "volume": 18.02
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_009",
+      "date_time": "2025-11-03",
+      "drain_volume": 143.8,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 822,
+          "end_minute": 983,
+          "duration_minutes": 162,
+          "volume": 72.25
+        },
+        {
+          "start_minute": 1063,
+          "end_minute": 1221,
+          "duration_minutes": 159,
+          "volume": 71.55
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-11-03",
+      "drain_volume": 162.9,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 407,
+          "end_minute": 587,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 821,
+          "end_minute": 1001,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_001",
+      "date_time": "2025-11-04",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 106,
+          "end_minute": 286,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_002",
+      "date_time": "2025-11-04",
+      "drain_volume": 166.52,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 562,
+          "end_minute": 742,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 953,
+          "end_minute": 1133,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-11-04",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 729,
+          "end_minute": 909,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-11-04",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 889,
+          "end_minute": 1069,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_006",
+      "date_time": "2025-11-04",
+      "drain_volume": 34.31,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1367,
+          "end_minute": 1439,
+          "duration_minutes": 73,
+          "volume": 34.31
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-11-04",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1079,
+          "end_minute": 1259,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-11-04",
+      "drain_volume": 25.5,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1198,
+          "end_minute": 1272,
+          "duration_minutes": 75,
+          "volume": 25.5
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_009",
+      "date_time": "2025-11-04",
+      "drain_volume": 207.0,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 391,
+          "end_minute": 549,
+          "duration_minutes": 159,
+          "volume": 71.55
+        },
+        {
+          "start_minute": 630,
+          "end_minute": 788,
+          "duration_minutes": 159,
+          "volume": 71.55
+        },
+        {
+          "start_minute": 1298,
+          "end_minute": 1439,
+          "duration_minutes": 142,
+          "volume": 63.9
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-11-04",
+      "drain_volume": 83.38,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 21,
+          "end_minute": 202,
+          "duration_minutes": 182,
+          "volume": 83.38
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-11-04",
+      "drain_volume": 79.2,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 176,
+          "duration_minutes": 176,
+          "volume": 79.2
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_012",
+      "date_time": "2025-11-04",
+      "drain_volume": 70.59,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 282,
+          "end_minute": 462,
+          "duration_minutes": 181,
+          "volume": 70.59
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_001",
+      "date_time": "2025-11-05",
+      "drain_volume": 81.61,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1169,
+          "end_minute": 1350,
+          "duration_minutes": 182,
+          "volume": 81.61
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_002",
+      "date_time": "2025-11-05",
+      "drain_volume": 331.66,
+      "number_of_drains": 4,
+      "drain_events": [
+        {
+          "start_minute": 323,
+          "end_minute": 503,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 544,
+          "end_minute": 724,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 849,
+          "end_minute": 1029,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 1262,
+          "end_minute": 1439,
+          "duration_minutes": 178,
+          "volume": 81.88
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-11-05",
+      "drain_volume": 81.6,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 196,
+          "end_minute": 377,
+          "duration_minutes": 182,
+          "volume": 81.6
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_004",
+      "date_time": "2025-11-05",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 212,
+          "end_minute": 392,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-11-05",
+      "drain_volume": 80.96,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 176,
+          "duration_minutes": 176,
+          "volume": 80.96
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_006",
+      "date_time": "2025-11-05",
+      "drain_volume": 50.29,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 107,
+          "duration_minutes": 107,
+          "volume": 50.29
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-11-05",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 658,
+          "end_minute": 838,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-11-05",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 975,
+          "end_minute": 1155,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_009",
+      "date_time": "2025-11-05",
+      "drain_volume": 7.2,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 16,
+          "duration_minutes": 16,
+          "volume": 7.2
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-11-05",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 880,
+          "end_minute": 1060,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-11-05",
+      "drain_volume": 143.24,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 559,
+          "end_minute": 725,
+          "duration_minutes": 167,
+          "volume": 61.79
+        },
+        {
+          "start_minute": 1204,
+          "end_minute": 1384,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_001",
+      "date_time": "2025-11-06",
+      "drain_volume": 81.67,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 665,
+          "end_minute": 846,
+          "duration_minutes": 182,
+          "volume": 81.67
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-11-06",
+      "drain_volume": 61.65,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1303,
+          "end_minute": 1439,
+          "duration_minutes": 137,
+          "volume": 61.65
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-11-06",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 961,
+          "end_minute": 1141,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_006",
+      "date_time": "2025-11-06",
+      "drain_volume": 85.18,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 645,
+          "end_minute": 826,
+          "duration_minutes": 182,
+          "volume": 85.18
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-11-06",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 149,
+          "end_minute": 329,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-11-06",
+      "drain_volume": 213.78,
+      "number_of_drains": 4,
+      "drain_events": [
+        {
+          "start_minute": 374,
+          "end_minute": 554,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 761,
+          "end_minute": 825,
+          "duration_minutes": 65,
+          "volume": 24.7
+        },
+        {
+          "start_minute": 879,
+          "end_minute": 1059,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 1363,
+          "end_minute": 1439,
+          "duration_minutes": 77,
+          "volume": 26.18
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_009",
+      "date_time": "2025-11-06",
+      "drain_volume": 214.65,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 335,
+          "end_minute": 493,
+          "duration_minutes": 159,
+          "volume": 71.55
+        },
+        {
+          "start_minute": 574,
+          "end_minute": 732,
+          "duration_minutes": 159,
+          "volume": 71.55
+        },
+        {
+          "start_minute": 1206,
+          "end_minute": 1364,
+          "duration_minutes": 159,
+          "volume": 71.55
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-11-06",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 107,
+          "end_minute": 287,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-11-06",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1026,
+          "end_minute": 1206,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_012",
+      "date_time": "2025-11-06",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 15,
+          "end_minute": 195,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_001",
+      "date_time": "2025-11-07",
+      "drain_volume": 233.63,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 191,
+          "end_minute": 371,
+          "duration_minutes": 181,
+          "volume": 70.59
+        },
+        {
+          "start_minute": 375,
+          "end_minute": 556,
+          "duration_minutes": 182,
+          "volume": 81.59
+        },
+        {
+          "start_minute": 690,
+          "end_minute": 870,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_002",
+      "date_time": "2025-11-07",
+      "drain_volume": 157.47,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 472,
+          "end_minute": 652,
+          "duration_minutes": 181,
+          "volume": 74.21
+        },
+        {
+          "start_minute": 1000,
+          "end_minute": 1180,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-11-07",
+      "drain_volume": 19.55,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 44,
+          "duration_minutes": 44,
+          "volume": 19.55
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_004",
+      "date_time": "2025-11-07",
+      "drain_volume": 83.41,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 175,
+          "end_minute": 356,
+          "duration_minutes": 182,
+          "volume": 83.41
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_005",
+      "date_time": "2025-11-07",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 231,
+          "end_minute": 411,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_006",
+      "date_time": "2025-11-07",
+      "drain_volume": 85.07,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 77,
+          "end_minute": 257,
+          "duration_minutes": 181,
+          "volume": 85.07
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-11-07",
+      "drain_volume": 51.09,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1326,
+          "end_minute": 1439,
+          "duration_minutes": 114,
+          "volume": 51.09
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-11-07",
+      "drain_volume": 34.68,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 102,
+          "duration_minutes": 102,
+          "volume": 34.68
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_009",
+      "date_time": "2025-11-07",
+      "drain_volume": 104.85,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 1003,
+          "end_minute": 1161,
+          "duration_minutes": 159,
+          "volume": 71.55
+        },
+        {
+          "start_minute": 1366,
+          "end_minute": 1439,
+          "duration_minutes": 74,
+          "volume": 33.3
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-11-07",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1012,
+          "end_minute": 1192,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-11-07",
+      "drain_volume": 119.7,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 608,
+          "end_minute": 788,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 1355,
+          "end_minute": 1439,
+          "duration_minutes": 85,
+          "volume": 38.25
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_012",
+      "date_time": "2025-11-07",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 752,
+          "end_minute": 932,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_001",
+      "date_time": "2025-11-08",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 275,
+          "end_minute": 455,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_002",
+      "date_time": "2025-11-08",
+      "drain_volume": 61.54,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 249,
+          "end_minute": 429,
+          "duration_minutes": 181,
+          "volume": 61.54
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_003",
+      "date_time": "2025-11-08",
+      "drain_volume": 81.45,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 237,
+          "end_minute": 417,
+          "duration_minutes": 181,
+          "volume": 81.45
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_004",
+      "date_time": "2025-11-08",
+      "drain_volume": 83.84,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1016,
+          "end_minute": 1199,
+          "duration_minutes": 184,
+          "volume": 83.84
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_006",
+      "date_time": "2025-11-08",
+      "drain_volume": 85.07,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 734,
+          "end_minute": 914,
+          "duration_minutes": 181,
+          "volume": 85.07
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_007",
+      "date_time": "2025-11-08",
+      "drain_volume": 30.15,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 67,
+          "duration_minutes": 67,
+          "volume": 30.15
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_008",
+      "date_time": "2025-11-08",
+      "drain_volume": 180.95,
+      "number_of_drains": 3,
+      "drain_events": [
+        {
+          "start_minute": 539,
+          "end_minute": 639,
+          "duration_minutes": 101,
+          "volume": 34.34
+        },
+        {
+          "start_minute": 822,
+          "end_minute": 1002,
+          "duration_minutes": 181,
+          "volume": 81.45
+        },
+        {
+          "start_minute": 1032,
+          "end_minute": 1212,
+          "duration_minutes": 181,
+          "volume": 65.16
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_009",
+      "date_time": "2025-11-08",
+      "drain_volume": 37.8,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 84,
+          "duration_minutes": 84,
+          "volume": 37.8
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_010",
+      "date_time": "2025-11-08",
+      "drain_volume": 166.65,
+      "number_of_drains": 2,
+      "drain_events": [
+        {
+          "start_minute": 534,
+          "end_minute": 714,
+          "duration_minutes": 181,
+          "volume": 83.26
+        },
+        {
+          "start_minute": 1088,
+          "end_minute": 1269,
+          "duration_minutes": 182,
+          "volume": 83.39
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_011",
+      "date_time": "2025-11-08",
+      "drain_volume": 42.75,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 1,
+          "end_minute": 95,
+          "duration_minutes": 95,
+          "volume": 42.75
+        }
+      ]
+    },
+    {
+      "cauldron_id": "cauldron_012",
+      "date_time": "2025-11-08",
+      "drain_volume": 83.26,
+      "number_of_drains": 1,
+      "drain_events": [
+        {
+          "start_minute": 560,
+          "end_minute": 740,
+          "duration_minutes": 181,
+          "volume": 83.26
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_cauldrons_analyzed": 12,
+    "total_dates_analyzed": 10,
+    "total_drain_events": 143,
+    "total_volume_drained": 9472.22
+  }
+}
