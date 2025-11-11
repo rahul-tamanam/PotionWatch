@@ -1,6 +1,5 @@
 # 🧙 Potion Discrepancy Detection System - EOG Sponsor Challenge
 
-**HackUTD 2025 | Presented by PNC**
 
 A real-time system that detects inconsistencies between potion drain data from cauldrons and potion transport tickets reported by witches — using statistical analysis, Flask APIs, and a React dashboard.
 
