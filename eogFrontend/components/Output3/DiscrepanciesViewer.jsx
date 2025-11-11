@@ -101,7 +101,7 @@ function rowColor(status) {
         case "MATCH": return "#dcfce7";
         case "MISMATCH": return "#fee2e2";
         case "TICKET_MISSING": return "#ffedd5";
-        case "DRAIN_NOT_DETECTED": return "#fef9c3";
+        case "DRAIN_NOT_DETECTED": return "#fefac3ff";
         default: return "#f3f4f6";
     }
 }

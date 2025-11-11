@@ -33,7 +33,7 @@ const marketIcon = new L.DivIcon({
       <svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
         <circle cx="25" cy="25" r="20" fill="#9b59b6" opacity="0.3"/>
         <circle cx="25" cy="25" r="15" fill="#8e44ad" opacity="0.5"/>
-        <circle cx="25" cy="25" r="12" fill="#6c3483" stroke="#fff" stroke-width="2"/>
+        <circle cx="25" cy="25" r="12" fill="#5d2b70ff" stroke="#fff" stroke-width="2"/>
         <path d="M 25 15 L 27 21 L 33 21 L 28 25 L 30 31 L 25 27 L 20 31 L 22 25 L 17 21 L 23 21 Z" fill="#fff" stroke="#ffd700" stroke-width="0.5"/>
         <circle cx="15" cy="15" r="1.5" fill="#fff"/>
         <circle cx="35" cy="15" r="1" fill="#fff"/>
@@ -267,7 +267,7 @@ function PotionNetworkMap() {
             <div className="potion-loading">
                 <div className="potion-loading-inner">
                     <div style={{ fontSize: '48px', marginBottom: '20px' }}>🧪</div>
-                    <div style={{ fontSize: '24px', marginBottom: '10px', color: '#333', fontWeight: '600' }}>Loading Potion Network...</div>
+                    <div style={{ fontSize: '24px', marginBottom: '10px', color: '#333', fontWeight: '600' }}>Loading Potion Network....</div>
                     <div style={{ fontSize: '14px', color: '#999' }}>{loadingStatus}</div>
                     <div style={{ marginTop: '20px', width: '200px', height: '4px', background: '#f0f0f0', borderRadius: '2px', overflow: 'hidden' }}>
                         <div style={{ height: '100%', background: 'linear-gradient(90deg, #667eea, #764ba2)', animation: 'loading 1.5s infinite', width: '50%' }} />

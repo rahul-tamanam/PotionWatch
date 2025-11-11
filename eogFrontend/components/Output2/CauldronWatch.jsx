@@ -343,7 +343,7 @@
 //             )}
 
 //             <div className="ticket-section">
-//                 <h2>📜 Transport Tickets for {selectedCauldron}</h2>
+//                 <h2> Transport Tickets for {selectedCauldron}</h2>
 //                 {cauldronTickets.length > 0 ? (
 //                     <table className="ticket-table">
 //                         <thead>
@@ -617,9 +617,9 @@ export default function CauldronWatch() {
 
     const layout = {
         title: `Potion Level Time Series - ${selectedCauldron}`,
-        template: "plotly_dark", // switch to dark theme
-        plot_bgcolor: "#0b0c10", // plotting area background
-        paper_bgcolor: "#0b0c10", // surrounding background
+        template: "plotly_dark",
+        plot_bgcolor: "#0b0c10", 
+        paper_bgcolor: "#0b0c10", 
         font: { color: "#e5e7eb" },
         xaxis: {
             title: "Time",

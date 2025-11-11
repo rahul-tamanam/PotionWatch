@@ -19,7 +19,7 @@ const CourierRouteOptimizer = () => {
   const styles = {
     container: {
       minHeight: '100vh',
-      background: 'linear-gradient(to bottom right, #1e1b4b, #581c87, #1e293b)',
+      background: 'linear-gradient(to bottom right, #1e1b4b, #581c87, #1e293bff)',
       padding: '24px',
       fontFamily: 'system-ui, -apple-system, sans-serif'
     },
